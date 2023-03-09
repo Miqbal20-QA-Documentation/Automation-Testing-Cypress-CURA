@@ -18,7 +18,7 @@
 <tr>
 <td>Report</td>
 <td> : </td>
-<td><a href="https://app.qase.io/public/report/84db2733126dd2027034966d97e61c67b4183476">Qase.io</a></td>
+<td><a href="">Qase.io Report</a></td>
 </tr>
 <tr>
 <td>Automation</td>
