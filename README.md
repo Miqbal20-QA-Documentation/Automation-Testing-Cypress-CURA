@@ -19,6 +19,6 @@
 <tr>
 <td>Automation</td>
 <td> : </td>
-<td><a href="">Cypress</a></td>
+<td><a href="https://github.com/Miqbal20-QA-Documentation/CURA-Health-Service">Cypress</a></td>
 </tr>
 <table>
