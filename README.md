@@ -21,4 +21,9 @@
 <td> : </td>
 <td><a href="https://github.com/Miqbal20-QA-Documentation/CURA-Health-Service">Cypress</a></td>
 </tr>
+<tr>
+<td>Video Documentation</td>
+<td> : </td>
+<td><a href="https://drive.google.com/file/d/1_oLfwcQDawR2MDyVfZLFDTc6o46bou7V/view?usp=share_link">Video</a></td>
+</tr>
 <table>
