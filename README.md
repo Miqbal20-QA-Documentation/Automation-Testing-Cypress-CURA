@@ -16,13 +16,13 @@
 <td> <a href="https://docs.google.com/spreadsheets/d/1XoxfOkrIRzw4ojofQEUuWudNQ8G7nhK1/edit?usp=sharing&ouid=106599073929300702476&rtpof=true&sd=true">Google Sheet</a></td>
 </tr>
 <tr>
-<td>Report</td>
-<td> : </td>
-<td><a href="">Qase.io Report</a></td>
-</tr>
 <tr>
 <td>Automation</td>
 <td> : </td>
 <td><a href="">Cypress</a></td>
+</tr>
+<td>Report</td>
+<td> : </td>
+<td><a href="">Qase.io Report</a></td>
 </tr>
 <table>
