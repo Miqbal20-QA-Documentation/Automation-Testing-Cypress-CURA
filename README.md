@@ -21,8 +21,4 @@
 <td> : </td>
 <td><a href="">Cypress</a></td>
 </tr>
-<td>Report</td>
-<td> : </td>
-<td><a href="">Qase.io Report</a></td>
-</tr>
 <table>
